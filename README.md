@@ -41,3 +41,5 @@ Ce projet a été généré avec [vue-cli](https://github.com/vuejs/vue-cli) en 
 
 ### ESLint
 ESLint est configuré afin de respecter un certain standard de code à travers votre équipe. Il est basé sur la [configuration airbnb](https://github.com/airbnb/javascript) qui rassemble les règles de base populaires. Libre à vous de modifier cette configuration via `.eslintrc.js`.
+### repo cloné le 11 septembre 2017
+configuration des outils de développement et de communication en équipe(slack,github,webstorm,nodeJs)
